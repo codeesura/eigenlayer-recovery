@@ -1,5 +1,5 @@
 {
-  "name": "eigenlayer-token-recovery",
+  "name": "eigenlayer-recovery",
   "version": "1.0.0",
   "description": "A library to recover unstaked tokens from Eigenlayer using Flashbots",
   "main": "index.js",
@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/codeesura/eigenlayer-recovery/issues"
   },
-  "homepage": "https://github.com/codeesura/eigenlayer-recovery#readme"
+  "homepage": "https://github.com/codeesura/eigenlayer-recovery#readme",
+  "devDependencies": {
+    "@flashbots/ethers-provider-bundle": "^0.6.1",
+    "ethers": "^5.7.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
 }
