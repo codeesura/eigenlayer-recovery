@@ -1,0 +1,26 @@
+{
+  "name": "eigenlayer-token-recovery",
+  "version": "1.0.0",
+  "description": "A library to recover unstaked tokens from Eigenlayer using Flashbots",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeesura/eigenlayer-recovery.git"
+  },
+  "keywords": [
+    "eigenlayer",
+    "flashbots",
+    "token",
+    "recovery",
+    "ethereum"
+  ],
+  "author": "codeesura codeesura@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeesura/eigenlayer-recovery/issues"
+  },
+  "homepage": "https://github.com/codeesura/eigenlayer-recovery#readme"
+}
